@@ -1,0 +1,43 @@
+#this file is the tag input file of tagsystemofsirnaomics.py. 
+# 井号后面都是注释文字
+# 逗号后面是对该tag的注释文字，鼠标放在tag上面1秒钟后显示该注释。
+
+#Group 1 displayed name: projects
+
+PPP01,项目1是干嘛的
+Project02,
+Project03,
+
+
+#Group 2 displayed name: departments
+
+D-invitro,
+D-invivo,
+D-BD,
+D-Admin, administration
+任意，任意
+
+
+#Group 3 displayed name: category
+
+Proposal,方案
+Record,原始数据
+Report1,对原始数据的整理和报告
+#Report2,多个lv1报告的整理报告-管理层
+#Report3,多个lv2报告的更高级报告-高级管理层
+
+#Group 6 displayed name: author
+
+JTian,Dr.Tian
+
+
+#Group 5 displayed name: manual tag
+
+# an input box is displayed for user input manual tag, length limit to 20 words 
+
+#Group 6 displayed name: file control
+
+draft,
+approved,
+yyyymmdd,time stamp of current date
+
